@@ -13,6 +13,7 @@
 		2F9AAF1D27F2DB0D00692457 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F9AAF1B27F2DB0D00692457 /* Main.storyboard */; };
 		2F9AAF1F27F2DB0E00692457 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F9AAF1E27F2DB0E00692457 /* Assets.xcassets */; };
 		2F9AAF2227F2DB0E00692457 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F9AAF2027F2DB0E00692457 /* LaunchScreen.storyboard */; };
+		2F9AAF2A27F2FA4C00692457 /* htmlView.html in Resources */ = {isa = PBXBuildFile; fileRef = 2F9AAF2927F2FA4C00692457 /* htmlView.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2F9AAF1E27F2DB0E00692457 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F9AAF2127F2DB0E00692457 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2F9AAF2327F2DB0E00692457 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2F9AAF2927F2FA4C00692457 /* htmlView.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = htmlView.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				2F9AAF1E27F2DB0E00692457 /* Assets.xcassets */,
 				2F9AAF2027F2DB0E00692457 /* LaunchScreen.storyboard */,
 				2F9AAF2327F2DB0E00692457 /* Info.plist */,
+				2F9AAF2927F2FA4C00692457 /* htmlView.html */,
 			);
 			path = 6.Web;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F9AAF2A27F2FA4C00692457 /* htmlView.html in Resources */,
 				2F9AAF2227F2DB0E00692457 /* LaunchScreen.storyboard in Resources */,
 				2F9AAF1F27F2DB0E00692457 /* Assets.xcassets in Resources */,
 				2F9AAF1D27F2DB0D00692457 /* Main.storyboard in Resources */,
